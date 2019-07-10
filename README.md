@@ -17,6 +17,10 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# install typescript
+$ npm i -D @nuxt/typescript
+$ npm i ts-node
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
